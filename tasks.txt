@@ -3,3 +3,4 @@
 3. input
 4. button
 5. add feature where user can write a task to input and add it using the button
+6.remove numbers from list
